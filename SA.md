@@ -6,3 +6,6 @@
 | 로그인                | post | /login | id,pw     | ture, false    | boolean 
 | 로그아웃              | post | /      |           |                |
 | 회원가입              | post | /join  |id,pw      |                |
+
+
+![20220801_151354](https://user-images.githubusercontent.com/59364300/182084904-47dbd72f-d03d-45ee-99e7-a8fbc68ff0c4.jpg)

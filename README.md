@@ -2,6 +2,13 @@
 
 > 회원이 영화를 추천 받고 평점과 코멘트도 볼 수 있으며 예매 사이트로 바로 날아갈 수 있는 사이트
 
+---
+
+![1659403986581](https://user-images.githubusercontent.com/110365590/182273096-cc26ce49-5599-478a-9ab6-61dc63b6c428.png)
+
+
+---
+
 ## Login
 ## Sign-up
 둘이 한 페이지로 회원가입은 css로 hidden, classname "on"을 이용, 토글로 보이게 하는 것이 목표
@@ -35,5 +42,3 @@
 | 회원가입              | post | /join  | id,pw(hashed)     | alter          |
 
 ---
-
-![diagram-export-8_1_2022, 8 46 21 PM](https://user-images.githubusercontent.com/110365590/182147360-4b8ec64a-96c2-42bf-95df-2c7c9ec94856.png)
